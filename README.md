@@ -38,9 +38,9 @@ pip install -r requirements.txt
 ```
 
 ### 运行方式
-参数说明：
-站点简称 - 漫画 ID - 章节范围 - 登录 Cookie（可选，用于 VIP 章节）
-示例：
+-参数说明：
+-站点简称 - 漫画 ID - 章节范围 - 登录 Cookie（可选，用于 VIP 章节）
+-示例：
 ```bash
  python main.py  zero  21143  --chapter 13-70   --cookie cookie.json
 ```
